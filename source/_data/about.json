@@ -1,0 +1,20 @@
+{
+    "avatar": "http://ww2.sinaimg.cn/small/74990035jw1f1rjkd681bj20rs0rsdhg.jpg",
+    "name": "SageTripp",
+	"tag": "Android/技术宅",
+    "desc": "SageTripp的一个技术博客,主要记录和收录一些平时自己的资源,以供自己日后使用",
+    "skills": {
+        "Javascript": 1,
+		"Python": 1,
+		"Android": 6,
+		"kotlin": 3
+    },
+    "projects": [{
+		"name": "你的项目A",
+		"image": "https://d13yacurqjgara.cloudfront.net/users/138819/screenshots/2578899/dribbble_800x600_01_1x.png",
+		"tags": ["2016年", "项目标签"],
+		"description": "你的项目A的简介",
+		"link_text": "网站链接",
+		"link": "https://dribbble.com/"
+	}]
+}
