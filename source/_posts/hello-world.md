@@ -1,5 +1,6 @@
 ---
 title: Hello World
+date: 2014/12/06
 tags:
 - 测试的
 - test
